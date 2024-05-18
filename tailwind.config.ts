@@ -41,8 +41,8 @@ const config: Config = {
 
       keyframes: {
         slideDownAndFade: {
-          from: { opacity: 0, transform: 'translateY(-2px)' },
-          to: { opacity: 1, transform: 'translateY(0)' },
+          from: { opacity: '0', transform: 'translateY(-2px)' },
+          to: { opacity: '1', transform: 'translateY(0)' },
         },
         // slideUpAndFade: {
         //   from: { opacity: 1 },
