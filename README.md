@@ -32,7 +32,7 @@ Este é um projeto simples utilizando Next.js e Tailwind CSS para criar uma apli
 3. Execute o servidor de desenvolvimento:
    ```bash
    npm run dev
-4. Abra http://localhost:3000 no seu navegador para ver a aplicação.
+4. Abra http://localhost:3000/tailwind-next no seu navegador para ver a aplicação.
 
 ## Acesse o Projeto
 
